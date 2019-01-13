@@ -1,13 +1,6 @@
-/*$(document).ready(function() {
-  $('#fullpage').fullpage({
-    //options here
-    autoScrolling:true,
-    scrollHorizontally: true
-  });
-
-  //methods
-  $.fn.fullpage.setAllowScrolling(false);
-});*/
+AOS.init({
+  duration: 1200,
+});
 (function($) {
   "use strict"; // Start of use strict
 
